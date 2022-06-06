@@ -1,0 +1,1 @@
+void distribute(void); /* function prototype */
